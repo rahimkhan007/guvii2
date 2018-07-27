@@ -8,7 +8,6 @@ class Ideone
 	public static void main (String[] args) throws java.lang.Exception
 	{
 		int num;
-		System.out.println("Enter a number");
 		Scanner in= new Scanner(System.in);
 		num=in.nextInt();
 		
